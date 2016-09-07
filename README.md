@@ -4,10 +4,12 @@
 * リスト2
 * リスト3
 
- ```composer.html
+```composer.html
 
 <h1>あああ</h1>
 
 ```
 
 ===
+
+***
